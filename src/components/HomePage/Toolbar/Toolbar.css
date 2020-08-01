@@ -1,0 +1,31 @@
+.Toolbar{
+    position: fixed;
+    z-index: 800;
+    left: 0;
+    top: 0;
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    color: rgb(184, 181, 177);
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+h4{
+    display: inline;
+    top: 5px;
+    left: 5px;
+}
+
+.nav{
+    width: 100%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    display: inline-block;
+    margin: 3vh auto;
+    /* left: 5px; */
+}

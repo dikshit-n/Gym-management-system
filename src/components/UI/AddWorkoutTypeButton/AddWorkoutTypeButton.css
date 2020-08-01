@@ -1,0 +1,16 @@
+.AddWorkoutType{
+    position: absolute;
+    padding: 5px;
+    right: 5px;
+    top: 5px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.AddWorkoutType:hover, 
+.AddWorkoutType:active{
+    background-color: rgb(71, 70, 70);
+}

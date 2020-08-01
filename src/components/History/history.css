@@ -1,0 +1,18 @@
+.HistoryContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    /* top: 89px; */
+    z-index: 0;
+    width: 70vw;
+    /* padding: 20px; */
+    max-width: 500px;
+    height: fit-content;
+    min-height: 85px;
+    box-sizing: border-box;
+    margin: 20px auto;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
